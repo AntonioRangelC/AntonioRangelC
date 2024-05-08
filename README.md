@@ -6,6 +6,10 @@
   
 </div><br/>
 
+<div>
+  <h4>Atualmente estou estagiando como desenvolvedor Back-End na Finatec</h4>
+</div><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-rangel-chaves-5627bb28a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonio.rangel.02@gmail.com)
 
